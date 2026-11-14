@@ -1,0 +1,14 @@
+{
+  "name": "nomina-system",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Sistema de gestion de nomina",
+  "main": "backend/server.js",
+  "scripts": {
+    "start": "node backend/server.js",
+    "test": "node --test"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
