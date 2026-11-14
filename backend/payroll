@@ -1,0 +1,15 @@
+const PAYROLL_CONCEPTS = {
+  SALARY: "salary",
+  TRANSPORT_ALLOWANCE: "transport_allowance",
+  OVERTIME: "overtime",
+  NIGHT_SURCHARGE: "night_surcharge",
+  SUNDAY_SURCHARGE: "sunday_surcharge",
+  CESANTIAS: "cesantias",
+  CESANTIAS_INTEREST: "cesantias_interest",
+  SERVICE_BONUS: "service_bonus",
+  VACATION: "vacation",
+  HEALTH: "health",
+  PENSION: "pension"
+};
+
+module.exports = { PAYROLL_CONCEPTS };
